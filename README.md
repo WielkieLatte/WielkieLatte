@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Mateusz Cezary Wojala 😎 and I am currently learning Python. 
 
 <!--
 **WielkieLatte/WielkieLatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
