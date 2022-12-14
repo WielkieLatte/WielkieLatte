@@ -4,6 +4,7 @@
 - passionate about finance and cryptocurrencies 💹
 - check out [WaveWatcher](https://wavewatcher.streamlit.app/), my latest project 🏄
 - looking for Python related job (Junior Data Analyst / Junior Trader) 💻
+Find me on [LinkedIn](https://www.linkedin.com/in/mateusz-cezary-wojtala/)
 <!--
 **WielkieLatte/WielkieLatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
