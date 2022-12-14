@@ -1,6 +1,9 @@
 ### Hi there 👋
-My name is Mateusz Cezary Wojala 😎 and I am currently learning Python. 
-
+### My name is Mateusz Cezary Wojala 😎 
+- working mostly with Python 🐍
+- passionate about finance and cryptocurrencies 💹
+- check out [WaveWatcher](https://wavewatcher.streamlit.app/), my latest project 🏄
+- looking for Python related job (Junior Data Analyst / Junior Trader) 💻
 <!--
 **WielkieLatte/WielkieLatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
